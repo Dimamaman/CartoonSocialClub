@@ -1,0 +1,16 @@
+<resources>
+  <string name="app_name">Cartoon Social Club</string>
+  <string name="avatar_thumbnail_content_description">Avatar thumbnail</string>
+  <string name="avatar_description_dog">Dog With Sunglasses</string>
+  <string name="avatar_description_monster">Monster Smile</string>
+  <string name="avatar_description_octopus">Red Octopus</string>
+  <string name="title_activity_avatar_selected">AvatarSelectedActivity</string>
+  <string name="hint_full_name">Full Name (i.e. Jimmy McFunnyface)</string>
+  <string name="continue_button">Continue</string>
+  <string name="main_activity_heading">Enter your details to continue</string>
+  <string name="pick_avatar_heading">Pick an avatar</string>
+
+  <string name="heading_profile_created">Your profile has been created!</string>
+  <string name="profile_created_description">You are now ready to socialize with cartoons all around the world!</string>
+  <string name="your_selected_avatar_description">Your selected avatar: %1s</string>
+</resources>
